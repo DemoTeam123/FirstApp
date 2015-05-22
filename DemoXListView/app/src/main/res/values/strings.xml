@@ -5,4 +5,9 @@
     <string name="action_settings">Settings</string>
 
     <string name="activity_baseActivity_mess_Loading">Loading...</string>
+    <string name="xlistview_header_hint_normal">hint normal</string>
+    <string name="xlistview_header_hint_ready">hint ready</string>
+    <string name="xlistview_header_hint_loading">hint loading</string>
+    <string name="xlistview_footer_hint_ready">footer hint loading</string>
+    <string name="xlistview_footer_hint_normal">footer hint loading</string>
 </resources>
