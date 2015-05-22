@@ -99,6 +99,7 @@ public class MainActivity extends BaseActivity {
         mCurrentOffset += 5;
         mProductAdapter.setItems(mProductItemsCurrent);
         lvProduct.stopLoadMore();
+        lvProduct.setPullLoadEnable(false);
     }
 
 
