@@ -71,13 +71,7 @@ public class MainActivity extends BaseActivity {
      */
     public void getListProduct() {
 
-        try {
-            ShowDiaLogLoading();
-            Thread.sleep(4000);
-
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        ShowDiaLogLoading();
         initData();
         mProductItemsCurrent = new ArrayList<>();
         mProductAdapter.setItems(mProductItemsCurrent);
