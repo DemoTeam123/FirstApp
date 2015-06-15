@@ -10,4 +10,5 @@
     <string name="xlistview_header_hint_loading">hint loading</string>
     <string name="xlistview_footer_hint_ready">footer hint loading</string>
     <string name="xlistview_footer_hint_normal">footer hint loading</string>
+    <string name="title_activity_get_json_from_server">GetJsonFromServer</string>
 </resources>
